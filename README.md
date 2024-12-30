@@ -1,2 +1,1 @@
-# mann
-note
+zyy's learning note
