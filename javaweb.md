@@ -24,3 +24,9 @@
 #### SpringAOP位置
 
 ![](C:\Users\86138\AppData\Roaming\Typora\typora-user-images\image-20250604164006006.png)
+
+AOP主要用于在方法前后执行一些东西（日志/事务开关）
+
+![image-20250811201813617](C:\Users\86138\AppData\Roaming\Typora\typora-user-images\image-20250811201813617.png)
+
+![image-20250811202255609](C:\Users\86138\AppData\Roaming\Typora\typora-user-images\image-20250811202255609.png)
